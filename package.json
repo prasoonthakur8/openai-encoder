@@ -1,6 +1,6 @@
 {
     "name": "openai-encoder",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Advanced text encoding and decoding for Open AI | GPT-3 | GPT-4",
     "main": "src/encoder.js",
     "scripts": {

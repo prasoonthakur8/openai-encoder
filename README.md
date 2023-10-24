@@ -2,7 +2,7 @@
 
 Advanced text encoding and decoding for OpenAI GPT-3 and GPT-4.
 
-![version](https://img.shields.io/badge/version-1.0.2-blue)
+![version](https://img.shields.io/badge/version-1.0.3-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Table of Contents
