@@ -1,0 +1,22 @@
+{
+    "name": "openai-encoder",
+    "version": "1.0.0",
+    "description": "Advanced text encoding and decoding for Open AI | GPT-3 | GPT-4",
+    "main": "src/encoder.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/anuragdeepxon/openai-encoder.git"
+    },
+    "dependencies": {
+      "pako": "^2.0.3"
+    },
+    "devDependencies": {
+      "jest": "^26.6.3"
+    },
+    "author": "Anurag Deep",
+    "license": "MIT"
+  }
+  
