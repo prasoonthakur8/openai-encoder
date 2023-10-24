@@ -2,7 +2,7 @@
 
 Advanced text encoding and decoding for OpenAI GPT-3 and GPT-4.
 
-![version](https://img.shields.io/badge/version-1.0.1-blue)
+![version](https://img.shields.io/badge/version-1.0.2-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Table of Contents
@@ -89,3 +89,11 @@ If you'd like to contribute, please fork the repository and use a feature branch
 ## License
 
 MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## About the Author
+
+**Anurag Deep**  
+- Website: [anuragdeep.com](https://anuragdeep.com)
+
+Anurag Deep is the developer behind this package. For more information, projects, and contact, please visit [anuragdeep.com](https://anuragdeep.com).
