@@ -96,4 +96,4 @@ MIT License. See the [LICENSE](LICENSE) file for details.
 **Prasoon Thakur**  
 - Website: [prasoonthakur.com](https://prasoonthakur.com)
 
-Anurag Deep is the developer behind this package. For more information, projects, and contact, please visit [prasoonthakur.com](https://prasoonthakur.com).
+Prasoon Thakur is the developer behind this package. For more information, projects, and contact, please visit [prasoonthakur.com](https://prasoonthakur.com).
